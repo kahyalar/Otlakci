@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Otlakçı</string>
+    <string name="email">Enter your email..</string>
+    <string name="password">Enter your password..</string>
+    <string name="login">Login</string>
+    <string name="successful_login">Logged in succesfully..</string>
+</resources>
